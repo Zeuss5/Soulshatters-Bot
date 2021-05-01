@@ -1,2 +1,2 @@
 # Soulshatters Bot
-yes
+Documentation W.I.P.
