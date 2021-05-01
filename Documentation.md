@@ -1,7 +1,11 @@
 # Soulshatters Bot Documentation
 ## Commands
 ###### Ban Command
-`test`
+Usage: `/ban <name> [reason]`
+With reason:
+
+Without reason:
+
 ###### Unban Command
 Explanation and image
 
