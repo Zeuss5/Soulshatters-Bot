@@ -1,7 +1,7 @@
 # Soulshatters Bot Documentation
 ## Commands
 ###### Ban Command
-> test
+`test`
 ###### Unban Command
 Explanation and image
 
