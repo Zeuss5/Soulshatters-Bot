@@ -1,1 +1,2 @@
 # Soulshatters Bot
+yes
