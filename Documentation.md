@@ -1,4 +1,4 @@
-# Soulshatters Bot Documantation
+# Soulshatters Bot Documentation
 ## Commands
 ###### Ban Command
 Explanation and image
